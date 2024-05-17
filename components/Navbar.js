@@ -5,6 +5,10 @@ import { useRef } from 'react';
 import { AllProjectsData } from '@/data/ProjectsPageData/AllProjectsData';
 import CryptoJS from 'crypto-js';
 import Link from 'next/link';
+import { AiFillInstagram } from "react-icons/ai";
+import { FaFacebook } from "react-icons/fa";
+import { FaTwitter } from "react-icons/fa";
+import { FaLinkedin } from "react-icons/fa";
 export default function Navbar() {
     const navbarRef = useRef(null);
     useEffect(() => {
@@ -60,28 +64,25 @@ export default function Navbar() {
     return (
         <div ref={navbarRef} className='!z-[100000] '>
             <div className="header-top">
-                <div className="container">
+                <div className="container  !w-full">
                     <div className="row">
                         <div className="col-md-6 col-sm-6 text-left fh5co-link">
                             <Link href="/Contact">Contact</Link>
                         </div>
-                        <div className="col-md-6 col-sm-6 text-right fh5co-social">
-                            <a href="https://www.facebook.com/helphenindia" className="grow" target="_blank"><i
-                                className="icon-facebook2"></i></a>
-                            <a href="https://twitter.com/HelphenIndia" className="grow" target="_blank"><i
-                                className="icon-twitter2"></i></a>
-                            <a href="https://www.instagram.com/helphenindia/" className="grow" target="_blank"><i
-                                className="icon-instagram2"></i></a>
+                        <div className="col-md-6 col-sm-6 text-right fh5co-social flex justify-end items-center mt-2">
+                            
+                            <a href="https://www.instagram.com/helphenindia/" className="" target="_blank"><i><AiFillInstagram className='ml-auto' /></i></a>
+                            <a href="https://in.linkedin.com/in/avana-iiti" className="" target="_blank"><i><FaLinkedin className='ml-auto' /></i></a>
                         </div>
                     </div>
                 </div>
             </div>
             <div id="fh5co-header-section" className="sticky-banner">
-                <div className="container">
-                    <div className="nav-header">
+                <div className="container !w-full">
+                    <div className="nav-header flex justify-between">
                         <div className="js-fh5co-nav-toggle fh5co-nav-toggle dark"><i></i></div>
-                        <h1 id="fh5co-logo" className='flex items-center mb-9'><a href="index.html" ><img className='w-20 h-20 my-auto flex justify-center items-center' src="images/helphen%20India%20logo.png"
-                            alt="logo" /></a></h1>
+                        <h1 id="fh5co-logo" className='flex items-center mb-5 '><Link href="/" ><img className='w-24 h-24 my-auto flex justify-center items-center mt-1' src="images/helphen%20India%20logo.png"
+                            alt="logo" /></Link></h1>
 
                         <nav id="fh5co-menu-wrap" role="navigation">
                             <ul className="sf-menu" id="fh5co-primary-menu">
@@ -107,7 +108,7 @@ export default function Navbar() {
                                 </li>
                                 <li><Link href="/Gallery">Gallery</Link></li>
                                 <li><Link href="/Blog">Blog</Link></li>
-                                <li><Link href="/Sponsors">Sponsors</Link></li>
+                                {/* <li><Link href="/Sponsors">Sponsors</Link></li> */}
                                 <li><Link href="/Contact">Contact</Link></li>
                             </ul>
                         </nav>
