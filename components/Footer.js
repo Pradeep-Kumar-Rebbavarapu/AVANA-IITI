@@ -14,20 +14,7 @@ export default function Footer() {
                         <div className="row">
                             <div className="col-md-6 col-md-offset-3 text-center">
                                 <p className="fh5co-social-icons flex justify-center">
-                                <Link
-                                        href="https://www.instagram.com/avana_iiti"
-                                        target="_blank"
-                                        rel="noopener noreferrer"
-                                    >
-                                        <i><FaTwitter className='mx-auto' /></i>
-                                    </Link>
-                                    <Link
-                                        href="https://www.instagram.com/avana_iiti"
-                                        target="_blank"
-                                        rel="noopener noreferrer"
-                                    >
-                                        <i><FaFacebook  className='mx-auto' /></i>
-                                    </Link>
+                    
                                     <Link
                                         href="https://www.instagram.com/avana_iiti"
                                         target="_blank"

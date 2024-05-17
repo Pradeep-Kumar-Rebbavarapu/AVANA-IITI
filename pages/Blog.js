@@ -15,9 +15,11 @@ export default function Blog() {
                 </div>
                 <div class="container">
                     <div class="row row-bottom-padded-md">
-                        {AllBlogsData?.map((ele,index)=>{
+                        {AllBlogsData?.map((ele, index) => {
                             return (
-                                <EachBlog ele={ele} />
+                                <div key={index}>
+                                    <EachBlog ele={ele} />
+                                </div>
                             )
                         })}
                     </div>

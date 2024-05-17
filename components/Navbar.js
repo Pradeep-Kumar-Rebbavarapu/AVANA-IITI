@@ -70,8 +70,7 @@ export default function Navbar() {
                             <Link href="/Contact">Contact</Link>
                         </div>
                         <div className="col-md-6 col-sm-6 text-right fh5co-social flex justify-end items-center mt-2">
-                            <a href="https://www.facebook.com/helphenindia" className="" target="_blank"><i ><FaTwitter className='ml-auto' /></i></a>
-                            <a href="https://twitter.com/HelphenIndia" className="" target="_blank"><i><FaFacebook  className='ml-auto' /></i></a>
+                            
                             <a href="https://www.instagram.com/helphenindia/" className="" target="_blank"><i><AiFillInstagram className='ml-auto' /></i></a>
                             <a href="https://in.linkedin.com/in/avana-iiti" className="" target="_blank"><i><FaLinkedin className='ml-auto' /></i></a>
                         </div>
