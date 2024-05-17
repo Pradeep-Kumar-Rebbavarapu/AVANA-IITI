@@ -110,7 +110,7 @@ export default function Home() {
 										>
 											<Link href="images/Gallery1.jpg" className="color-3">
 												<div className="case-studies-summary">
-													<h2>Marudhavalli Medu</h2>
+													<h2>collection</h2>
 												</div>
 											</Link>
 										</li>

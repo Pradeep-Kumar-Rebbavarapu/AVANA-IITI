@@ -1,7 +1,7 @@
 export const GalleryData = [
     {
         "image": "images/replace_in_home_gallery.jpg",
-        "title": "Marudhavalli Medu"
+        "title": "collection"
     },
     {
         "image": "images/index_gallery_2.jpeg",
@@ -14,5 +14,9 @@ export const GalleryData = [
     {
         "image": "images/cover_4.png",
         "title": "Karunalaya Children Home"
+    },
+    {
+        "image": "images/5.png",
+        "title": "avana"
     }
 ]
