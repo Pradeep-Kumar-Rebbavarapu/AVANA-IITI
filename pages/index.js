@@ -15,11 +15,11 @@ export default function Home() {
 					<div className="fh5co-hero">
 						<div className="fh5co-overlay"></div>
 						<div
-							className="fh5co-cover text-center after:bg-black after:absolute after:w-full after:h-full after:left-0 after:top-0 after:opacity-50"
+							className="fh5co-cover text-center after:bg-black after:absolute after:w-full after:h-full  after:left-0 after:top-0 after:opacity-50"
 							data-stellar-background-ratio="0.5"
 							style={{ backgroundImage: 'url(images/background.gif)' }}
 						>
-							<div className="desc animate-box">
+							<div className="desc animate-box ">
 
 								<span>
 									<a
@@ -155,7 +155,7 @@ export default function Home() {
 
 							<div className="row">
 								<div className="col-md-4 col-md-offset-4 text-center animate-box">
-									<Link href="gallery.html" className="btn btn-primary btn-lg">
+									<Link href="/Gallery" className="btn btn-primary btn-lg">
 										See Gallery
 									</Link>
 								</div>
@@ -204,7 +204,7 @@ export default function Home() {
 
 							<div className="row">
 								<div className="col-md-4 col-md-offset-4 text-center animate-box">
-									<Link href="blog.html" className="btn btn-primary btn-lg">
+									<Link href="/Blog" className="btn btn-primary btn-lg">
 										Our Blog
 									</Link>
 								</div>
