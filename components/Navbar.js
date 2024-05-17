@@ -65,14 +65,14 @@ export default function Navbar() {
         <div ref={navbarRef} className='!z-[100000] '>
             <div className="header-top">
                 <div className="container  !w-full">
-                    <div className="row">
-                        <div className="col-md-6 col-sm-6 text-left fh5co-link">
-                            <Link href="/Contact">Contact</Link>
+                    <div className="row flex justify-between items-center !w-full">
+                        <div className="col-md-6 col-sm-6 !text-left fh5co-link !w-full  ">
+                            <Link href="/Contact">contact</Link>
                         </div>
-                        <div className="col-md-6 col-sm-6 text-right fh5co-social flex justify-end items-center mt-2">
+                        <div className="!mr-0 !text-right !w-full fh5co-social flex justify-end items-center mt-2">
                             
-                            <a href="https://www.instagram.com/helphenindia/" className="" target="_blank"><i><AiFillInstagram className='ml-auto' /></i></a>
-                            <a href="https://in.linkedin.com/in/avana-iiti" className="" target="_blank"><i><FaLinkedin className='ml-auto' /></i></a>
+                            <a href="https://www.instagram.com/avana_iiti" className="" target="_blank"><i><AiFillInstagram className='ml-auto w-8 h-8' /></i></a>
+                            <a href="https://in.linkedin.com/in/avana-iiti" className="" target="_blank"><i><FaLinkedin className='ml-auto w-8 h-8' /></i></a>
                         </div>
                     </div>
                 </div>
