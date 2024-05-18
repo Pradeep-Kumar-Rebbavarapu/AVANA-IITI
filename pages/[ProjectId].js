@@ -2,7 +2,7 @@ import { useRouter } from 'next/router';
 import { AllProjectsData } from '@/data/ProjectsPageData/AllProjectsData';
 import React, { useEffect, useState } from 'react';
 import EachProject from '@/components/ProjectsPage/EachProject';
-
+import { NextSeo } from 'next-seo';
 export default function Project() {
     const router = useRouter();
     const { ProjectId } = router.query;
@@ -27,6 +27,10 @@ export default function Project() {
 
     return (
         <div>
+            <NextSeo
+				title={`Avana - Project ${ProjectId}`}
+				description="The Avana Club of IIT Indore"
+			/>
             <EachProject ele={projectElement} />
         </div>
     );

@@ -6,5 +6,5 @@ export const AllContacts = {
     "club_head_number":"+91 9404149459",
     "website_developer_number":"+91 8073010756",
     "co_club_head_number":"+91 8739973988",
-    "avana_gmail":"avana.iiti.ac.in",
+    "avana_gmail":"avana@iiti.ac.in",
 }
