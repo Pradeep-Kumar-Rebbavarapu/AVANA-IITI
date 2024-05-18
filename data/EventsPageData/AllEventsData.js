@@ -1,62 +1,62 @@
 export const AllEventsData = [
     {
-        "title": "Tshirt Distribution",
-        "description": "Joy is always found in the little things. And one way to spread the feelings of warmth and joyousness is by sharing them with others. Helphen India has conducted numerous T-shirt distribution drives in and around the slums of Vellore. We have reached out to more than 1000 families so far and have distributed over two thousand t-shirts. Clothes often lose importance in homes where it’s difficult for all members of the family to get three square meals daily and helping them out ever so slightly makes a slight difference in their lives. The innocence in their face upon seeing us melts our hearts and motivates us to do more for society. Here are some moments from the event.",
+        "title": "Cloth Donation Drive",
+        "description": "We spearheaded a campus-wide clothing drive in May. This initiative aimed to collect clothing and stationary items from all corners of the campus, extending the spirit of generosity to the broader community. Volunteers traversed the campus, engaging with hostel residents to solicit their support for the noble cause. In each hostel, designated collection boxes were stationed, serving as beacons of hope for those in need..",
         "images": [
-            "images/42.png",
-            "images/43.png",
-            "images/44.png",
-            "images/45.png"
+            "images/cdd 23_1.jpg",
+            "images/cdd 23_4.jpg",
+            "images/cdd 23_3.jpg",
+            "images/cdd 23_4.jpg"
         ]
     },
     {
-        "title": "Orphanage Visit",
-        "description": "Orphanages are the only places that leave one feeling empty and full at the same time. Childhood is usually regarded as one’s happiest moments on earth but few unfortunate kids could not have a happy childhood that every kid deserves. Spending quality time with these kids in the orphanages and looking at their happy faces as we talk to them and play fun little games always makes our hearts fill with joy and happiness.",
+        "title": "Village Visit",
+        "description": "In Baalda gaon, we met 3-4 farmers and one poultry farm owner. The farmers mostly grow potato, wheat, chana, tomato and chilly according to the season. They used tractors in their fields for plowing and sowing. Water requirements are met by the automatic pump system connected to the wells. .",
         "images": [
-            "images/5.png",
-            "images/6.png",
-            "images/7.png",
-            "images/50.png"
+            "images/village v 1.jpg",
+            "images/village v 2.jpg",
+            "images/village v 3.jpg",
+            "images/village v 4.jpg"
         ]
     },
     {
         "title": "Old age home Visit",
-        "description": "Humans are born, they grow and they become old. That is the natural way of life, however, when we do grow old, we need support. Although mentally, older people are the strongest, and physically it might not be the case and it is our duty to give back to them with whatever small thing that we can as they are the ones who help us navigate through our life with their experiences. It melts our hearts as we see the wrinkled faces of our elders make a smile, relax and forget the past to just relish the present. This is why we at Helphen India always make sure to have several trips to old age homes across the country to donate essentials and spend quality time with our nana-nanis and dada-dadis there. Here are a few pictures from a few of our visits.",
+        "description": "On 27 jan 2024, we visited Jagganath Narayan Vridhashram, a residential facility for elderly individuals. The purpose of the visit was to engage with the residents through various activities aimed at bringing joy, companionship, and support to the elderly members of our community. Through engaging activities such as antakshari Competition, Chopai recitation, grocery distribution, and dance, we were able to brighten the lives of the elderly residents and create lasting bonds within the community.",
         "images": [
-            "images/9.png",
-            "images/10.png",
-            "images/13.png",
-            "images/11.png"
+            "images/odh 23_1.jpg",
+            "images/odh 23_1.jpg",
+            "images/odh 23_3.jpg",
+            "images/odh 23_4.jpg"
         ]
     },
     {
-        "title": "Cancer Home visit",
-        "description": "The toughest survivors need all the love we could provide them. Cancer isn’t a disease that just affects one physically. It breaks down people from the inside and it takes a lot of willpower and strength to stay strong and fight against it. We at Helphen India make regular visits to the cancer homes in our locality to spend quality time with the brave souls and help them keep smiling. Every time we visit them we feel their auras radiating lots of hope and positivity which inspires us to stay strong in our goals and appreciate what we have. Here are a few pictures from our visits.",
+        "title": "Plantation",
+        "description": " At Avana, we believe in not only enjoying the wonders of nature but also in actively contributing to its preservation and growth. With this ethos in mind, we have embarked on a journey of environmental stewardship, marked by our dedicated plantation efforts. Over the past year, members of the Avana community have come together to plant the seeds of change, quite literally..",
         "images": [
-            "images/26.png",
-            "images/27.png",
-            "images/28.png",
-            "images/29.png"
+            "images/plant 1.jpg",
+            "images/plant 2.jpg",
+            "images/plant 3.jpg",
+            "images/plant 2.jpg"
         ]
     },
     {
-        "title": "Medical Camp",
-        "description": "About 2.4 million Indians die of treatable conditions each year, due to the lack of medical facilities available to them. Therefore, We at Helphen India launched a medical camp that aims to provide free health checkups to the underprivileged. Apart from the unaffordable treatment fees, slum dwellers usually face issues commuting to and from clinics and hospitals which led to less awareness of the importance of health and hygiene. We contacted various specialists in the medical community to provide free checkups at the slums. Eye care professionals, ENT specialists and general physicians are invited to join us in this endeavour. Hoping for the best, we invite the slum dwellers to appear for the checkups. This initiative encourages people to be more health-conscious and seek medical assistance in case of dire conditions.",
+        "title": "Diwali Pradarshani",
+        "description": "   In a celebration of light, creativity, and community spirit, the Avana Club at IIT Indore organized a vibrant Diwali Pradarshan on campus and in neighboring schools. The festivities began with members of the Avana Club visiting nearby schools, where they engaged with students and educators to promote participation in various creative competitions..",
         "images": [
-            "images/14.png",
-            "images/15.png",
-            "images/16.png",
-            "images/17.png"
+            "images/diwali p 1.jpg",
+            "images/diwali p 2.jpg",
+            "images/diwali p 4.jpg",
+            "images/diwali p 1.jpg"
         ]
     },
     {
-        "title": "School Construction at Madavelli medu",
-        "description": "An investment in education always pays the best interest. It shapes the future of a child and is the eye to the future of the nation. Every kid can become successful if led through the right path by the right person. Marudhavalli medu is a small district near Vellore, Tamil Nadu. It is an example of how rural areas still lack the most basic educational amenities. A school is a place that focuses on the proper development of a kid, academically and practically. Unfortunately, the kids did not have a proper school building to go to and a roof to study under. They had been studying in open for the last 6 years, with no roof over their heads, no proper classrooms to study in, no benches and just one movable blackboard chart. They study in the sun with rocks as their benches. The situation becomes worse during harsh weather conditions, when the summer heat is unbearable, imagine sitting under the sun for straight 6 hours. The classes had to be cancelled many times because of the heavy rainfall and storms. Studying and teaching become impossible in the bitter cold as well. The school was frequently not functional and hence focussing on education became harder than it should be. Going to proper school was still a dream for these kids and we decided to help them to get their school. Helphen India organised a fundraiser in 2018 and helped the kids get their school. We believe that a school isn’t just a place to study but rather a second home to all the kids. It is a place where a child learns and grows to become a better person.",
+        "title": "Blood Donation camp",
+        "description": "IIT Indore celebrated its 15th anniversary of establishment, through an act of selfless benevolence - a Blood Donation Drive hosted by the Avana club on 7 February 2024.   Inaugurated by our honorable Director, Dr. Suhas Joshi himself, the drive was graced by the presence of * , and was a collaborative effort between IITI's Health Centre and * medical college. An unusual choice of location for such an event, the passage leading up to the Nalanda auditorium, was decked in striking posters depicting the importance of and care to be taken before and after blood donation..",
         "images": [
-            "images/38.png",
-            "images/39.png",
-            "images/40.png",
-            "images/41.png"
+            "images/bd 23_1.jpg",
+            "images/bd 23_1.jpg",
+            "images/bd 23_3.jpg",
+            "images/bd 23_4.jpg"
         ]
     }
 ]

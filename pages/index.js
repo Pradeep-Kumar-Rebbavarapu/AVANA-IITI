@@ -122,7 +122,7 @@ export default function Home() {
 										>
 											<Link href="images/Gallery2.jpg" className="color-4">
 												<div className="case-studies-summary">
-													<h2>Sacred Hearts</h2>
+													<h2>teams</h2>
 												</div>
 											</Link>
 										</li>
@@ -134,7 +134,7 @@ export default function Home() {
 										>
 											<Link href="images/Gallery3.jpg" className="color-5">
 												<div className="case-studies-summary">
-													<h2>{`St Jude's Center`}</h2>
+													<h2>{`team`}</h2>
 												</div>
 											</Link>
 										</li>
@@ -145,7 +145,7 @@ export default function Home() {
 										>
 											<Link href="images/cover_4.png" className="color-6">
 												<div className="case-studies-summary">
-													<h2>Karunalaya Children Home</h2>
+													<h2>team</h2>
 												</div>
 											</Link>
 										</li>

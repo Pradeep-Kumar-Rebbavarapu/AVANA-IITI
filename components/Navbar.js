@@ -92,7 +92,7 @@ export default function Navbar() {
                                 <li>
                                     <a href="#" className="fh5co-sub-ddown">Our Works</a>
                                     <ul className="fh5co-sub-menu">
-                                        <li><Link href="/Events">Events</Link></li>
+                                        <li><Link href="/Events">Events 2023-24</Link></li>
                                     </ul>
                                 </li>
                                 <li>

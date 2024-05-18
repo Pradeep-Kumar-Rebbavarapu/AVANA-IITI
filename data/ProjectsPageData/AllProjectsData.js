@@ -64,5 +64,16 @@ export const AllProjectsData = [
             "images/40.png",
             "images/41.png"
         ]
-    }
+    },
+    {
+        "id":7,
+        "title": "Project 7",
+        "description": "About 2.4 million Indians die of treatable conditions each year, due to the lack of medical facilities available to them. Therefore, We at Helphen India launched a medical camp that aims to provide free health checkups to the underprivileged. Apart from the unaffordable treatment fees, slum dwellers usually face issues commuting to and from clinics and hospitals which led to less awareness of the importance of health and hygiene. We contacted various specialists in the medical community to provide free checkups at the slums. Eye care professionals, ENT specialists and general physicians are invited to join us in this endeavour. Hoping for the best, we invite the slum dwellers to appear for the checkups. This initiative encourages people to be more health-conscious and seek medical assistance in case of dire conditions.",
+        "images": [
+            "images/14.png",
+            "images/15.png",
+            "images/16.png",
+            "images/17.png"
+        ]
+    },
 ]
