@@ -23,8 +23,8 @@ export const AllEventsData = [
         "title": "Old age home Visit",
         "description": "On 27 jan 2024, we visited Jagganath Narayan Vridhashram, a residential facility for elderly individuals. The purpose of the visit was to engage with the residents through various activities aimed at bringing joy, companionship, and support to the elderly members of our community. Through engaging activities such as antakshari Competition, Chopai recitation, grocery distribution, and dance, we were able to brighten the lives of the elderly residents and create lasting bonds within the community.",
         "images": [
-            "images/odh 23_1.jpg",
-            "images/odh 23_1.jpg",
+            "images/odh 23_3.jpg",
+            "images/odh 23_4.jpg",
             "images/odh 23_3.jpg",
             "images/odh 23_4.jpg"
         ]

@@ -1,7 +1,7 @@
 export const OurProjectData = [
     {
         "project_link": "project_kinder.html",
-        "title": "collection",
+        "title": "ssterer",
         "description": "Project Kinder is an initiative by Helphen India, Vellore with the objective to teach English to the government school children. We aim to develop English speaking skills among young minds."
     },
     {
