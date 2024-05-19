@@ -1,38 +1,38 @@
 export const AllGalleryData = [
     {
         image: "images/bd 23_1.jpg",
-        title: "Distribution of masks and sanitizers at Shraddha Home for orphans, Hyderabad",
+        title: "Blood Donation Camp",
     },
     {
         image: "images/marg 23_3.jpg",
-        title: "Children being engrossed in a Kinder class at Old PUMS school, Vellore",
+        title: "Margdarshan",
     },
     {
         image: "images/bd 23_2.jpg",
-        title: "Distribution of food amongst locals in Kansalpet, Vellore",
+        title: "Blood Donation Camp",
     },
     {
         image: "images/bd 23_3.jpg",
-        title: "A fun session with our elders at Vallalar Mudhiyor Illam, Vellore",
+        title: "Blood Donation Camp",
     },
     {
         image: "images/cdd 23_1.jpg",
-        title: "Distribution of masks and sanitizers at Subash Children Home, Kanpur",
+        title: "Cloth Donation",
     },
     {
         image: "images/cdd 23_2.jpg",
-        title: "Notebook distribution at Karunalaya Children Home, Vellore",
+        title: "Cloth Donation",
     },
     {
         image: "images/cdd 23_2.jpg",
-        title: "Notebook distribution at Karunalaya Children Home, Vellore",
+        title: "Cloth Donation",
     },
     {
         image: "images/diwali p 1.jpg",
-        title: "Distribution of masks and sanitizers at Subash Children Home, Kanpur",
+        title: "Diwali Pradarshani",
     },
     {
         image: "images/diwali p 2.jpg",
-        title: "Notebook distribution at Karunalaya Children Home, Vellore",
+        title: "Diwali Pradarshani",
     },
 ];
