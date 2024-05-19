@@ -1,6 +1,6 @@
 export const AllGalleryData = [
     {
-        image: "images/bd 23_1.jpg",
+        image: "images/bd 23_4.jpg",
         title: "Blood Donation Camp",
     },
     {
