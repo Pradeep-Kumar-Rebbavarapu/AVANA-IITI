@@ -1,13 +1,13 @@
 @font-face {
-  font-family: 'IcoMoon';
-  src: url('/fonts/icomoon/icomoon.ttf') format('truetype');
-  font-weight: normal;
-  font-style: normal;
+    font-family: "IcoMoon";
+    src: url("/fonts/icomoon/icomoon.ttf") format("truetype");
+    font-weight: normal;
+    font-style: normal;
 }
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
 
 .fh5co-offcanvas .offcanvas-menu-container {
-  transform: translateX(0);
+    transform: translateX(0);
 }
