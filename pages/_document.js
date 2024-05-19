@@ -37,8 +37,8 @@ export default function Document() {
           content="AVANA is social welfare initiative taken up by students of IIT Indore that plays a significant part towards the welfare of underprivileged peoples in and around Indore. This includes and is not limited to: conducting teaching activities for rural children, distribution of basic clothing and blankets through a donation mechanism, conducting blood donation camps, and more recently developing educational content such as videos for the benefit of the rural folk." />
         <meta name="author" content="Pradeep Kumar Rebbavarapu" />
 
-        <meta property="og:image" content="" />
-        <meta name="twitter:image" content="" />
+        <meta property="og:image" content={imageDirectURL} />
+        <meta name="twitter:image" content={imageDirectURL} />
 
 
         <link rel="shortcut icon" href="favicon.ico" />

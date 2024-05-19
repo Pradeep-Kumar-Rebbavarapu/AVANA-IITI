@@ -11,14 +11,14 @@ export default function EachEvent({ ele }) {
             </div>
             <div className="row">
                 <div className="col-md-6 text-center animate-box container1">
-                    <p><img src={images[0]} alt="Free HTML5 Bootstrap Template" className="img-responsive" />
+                    <p><img src={`/${images[0]}`} alt="Free HTML5 Bootstrap Template" className="img-responsive" />
 
                     </p>
 
                 </div>
 
                 <div className="col-md-6 text-center animate-box container1">
-                    <p><img src={images[1]} alt="Free HTML5 Bootstrap Template" className="img-responsive" />
+                    <p><img src={`/${images[1]}`} alt="Free HTML5 Bootstrap Template" className="img-responsive" />
 
                     </p>
 
@@ -28,14 +28,14 @@ export default function EachEvent({ ele }) {
             </div>
             <div className="row">
                 <div className="col-md-6 text-center animate-box container1">
-                    <p><img src={images[2]} alt="Free HTML5 Bootstrap Template" className="img-responsive" />
+                    <p><img src={`/${images[2]}`} alt="Free HTML5 Bootstrap Template" className="img-responsive" />
 
                     </p>
 
                 </div>
 
                 <div className="col-md-6 text-center animate-box container1">
-                    <p><img src={images[3]} alt="Free HTML5 Bootstrap Template" className="img-responsive" />
+                    <p><img src={`/${images[3]}`} alt="Free HTML5 Bootstrap Template" className="img-responsive" />
 
                     </p>
 

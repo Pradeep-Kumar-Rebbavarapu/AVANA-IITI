@@ -9,6 +9,7 @@ import { AiFillInstagram } from "react-icons/ai";
 import { FaFacebook } from "react-icons/fa";
 import { FaTwitter } from "react-icons/fa";
 import { FaLinkedin } from "react-icons/fa";
+import { AllEventsData } from '@/data/EventsPageData/AllEventsData';
 export default function Navbar() {
     const navbarRef = useRef(null);
     useEffect(() => {
@@ -92,7 +93,12 @@ export default function Navbar() {
                                 <li>
                                     <a href="#" className="fh5co-sub-ddown">Our Works</a>
                                     <ul className="fh5co-sub-menu">
-                                        <li><Link href="/Events">Events 2023-24</Link></li>
+                                        {AllEventsData?.map((ele,index)=>{
+                                            return (
+                                                <li key={index}><Link href={`/Events/${ele.id}`}>{ele.title}</Link></li>
+                                            )
+                                        })}
+                                        
                                     </ul>
                                 </li>
                                 <li>
@@ -100,7 +106,7 @@ export default function Navbar() {
                                     <ul className="fh5co-sub-menu">
                                         {AllProjectsData?.map((ele,index)=>{
                                             return (
-                                                <li key={index}><Link href={`/${ele.id}`}>{ele.title}</Link></li>
+                                                <li key={index}><Link href={`/Projects/${ele.id}`}>{ele.title}</Link></li>
                                             )
                                         })}
                                         

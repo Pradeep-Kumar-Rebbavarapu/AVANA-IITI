@@ -1,4 +1,4 @@
-export const AllProjectsData = [
+const AllProjectsData = [
     {
         "id":1,
         "title": "Project 1",
@@ -77,3 +77,6 @@ export const AllProjectsData = [
         ]
     },
 ]
+
+
+module.exports = { AllProjectsData }

@@ -5,17 +5,19 @@ import EachProject from '@/components/ProjectsPage/EachProject';
 import { NextSeo } from 'next-seo';
 export default function Project() {
     const router = useRouter();
-    const { ProjectId } = router.query;
+    const { id } = router.query;
     const [loading, setLoading] = useState(true); 
     const [projectElement, setProjectElement] = useState(null);
 
     useEffect(() => {
-        if (ProjectId) {
-            const foundProject = AllProjectsData.find((project) => String(project.id) === ProjectId);
+        if (id) {
+            
+            const foundProject = AllProjectsData.find((project) => String(project.id) === id);
+            console.log(foundProject)
             setProjectElement(foundProject);
             setLoading(false);
         }
-    }, [ProjectId]);
+    }, [id]);
 
     if (loading) {
         return <div>Loading...</div>;
@@ -28,7 +30,7 @@ export default function Project() {
     return (
         <div>
             <NextSeo
-				title={`Avana - Project ${ProjectId}`}
+				title={`Avana - Project ${id}`}
 				description="The Avana Club of IIT Indore"
 			/>
             <EachProject ele={projectElement} />

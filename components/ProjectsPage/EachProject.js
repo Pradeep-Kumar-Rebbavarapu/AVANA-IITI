@@ -17,7 +17,7 @@ export default function EachProject({ele}) {
 
                     <div className="row">
                         <div className="col-md-6 text-center animate-box">
-                            <p><img src={images[0]} alt="Free HTML5 Bootstrap Template"
+                            <p><img src={`/${images[0]}`} alt="Free HTML5 Bootstrap Template"
                                 className="img-responsive img-overlay"/>
                                 <div className="overlay">
                                     <div className="text"> Caption for Image</div>
@@ -25,7 +25,7 @@ export default function EachProject({ele}) {
                             </p>
                         </div>
                         <div className="col-md-6 text-center animate-box">
-                            <p><img src={images[1]} alt="Free HTML5 Bootstrap Template"
+                            <p><img src={`/${images[1]}`} alt="Free HTML5 Bootstrap Template"
                                 className="img-responsive img-overlay"/>
                                 <div className="overlay">
                                     <div className="text"> Caption for Image</div>
@@ -33,7 +33,7 @@ export default function EachProject({ele}) {
                             </p>
                         </div>
                         <div className="col-md-6 text-center animate-box">
-                            <p><img src={images[2]} alt="Free HTML5 Bootstrap Template"
+                            <p><img src={`/${images[2]}`} alt="Free HTML5 Bootstrap Template"
                                 className="img-responsive img-overlay"/>
                                 <div className="overlay">
                                     <div className="text"> Caption for Image</div>
@@ -41,7 +41,7 @@ export default function EachProject({ele}) {
                             </p>
                         </div>
                         <div className="col-md-6 text-center animate-box">
-                            <p><img src={images[3]} alt="Free HTML5 Bootstrap Template"
+                            <p><img src={`/${images[3]}`} alt="Free HTML5 Bootstrap Template"
                                 className="img-responsive img-overlay"/>
                                 <div className="overlay">
                                     <div className="text"> Caption for Image</div>
