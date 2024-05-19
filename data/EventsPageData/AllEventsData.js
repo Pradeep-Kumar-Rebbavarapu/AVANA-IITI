@@ -53,8 +53,8 @@ export const AllEventsData = [
         "title": "Blood Donation camp",
         "description": "IIT Indore celebrated its 15th anniversary of establishment, through an act of selfless benevolence - a Blood Donation Drive hosted by the Avana club on 7 February 2024.   Inaugurated by our honorable Director, Dr. Suhas Joshi himself, the drive was graced by the presence of * , and was a collaborative effort between IITI's Health Centre and * medical college. An unusual choice of location for such an event, the passage leading up to the Nalanda auditorium, was decked in striking posters depicting the importance of and care to be taken before and after blood donation..",
         "images": [
-            "images/bd 23_1.jpg",
-            "images/bd 23_1.jpg",
+            "images/bd 23_3.jpg",
+            "images/bd 23_4.jpg",
             "images/bd 23_3.jpg",
             "images/bd 23_4.jpg"
         ]

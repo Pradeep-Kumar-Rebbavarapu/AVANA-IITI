@@ -43,9 +43,12 @@ export default function Home() {
 						<div className="col-md-12 text-center heading-section">
 							<h3>About Us</h3>
 							<p>
-								Helphen, a derivative of German word helfen meaning help, is a
-								non-profit organization that was established to help protect,
-								promote and develop the welfare of the needy and indigent.
+							Avana, a Sanskrit word meaning favour/protection,
+							 is a compassionate social welfare club dedicated to uplifting the lives of underprivileged individuals. 
+							 Founded on the principles of empathy and solidarity, 
+							 we strive to create a more equitable society where everyone has access to essential resources and opportunities for a better future.
+
+
 							</p>
 						</div>
 					</div>
@@ -55,10 +58,10 @@ export default function Home() {
 							<div className="feature-text">
 								<h3>Goal</h3>
 								<p>
-									Helphen aspires to be agents of change in the lives of children,
-									youth, women and the under-privileged. With the unique
-									development initiatives, Helphen focuses on uplifting the
-									deprived and ensuring that all around us live a life well lived.
+								Our primary objective at Avana is to lower poverty and promote social justice by providing vital support and resources to those in need. 
+								Through various programs and initiatives, we aim to empower people to overcome socio-economic barriers and achieve self-sufficiency.
+
+
 								</p>
 							</div>
 						</div>
@@ -66,20 +69,19 @@ export default function Home() {
 							<div className="feature-text">
 								<h3>Principles</h3>
 								<p>{`
-											Helphen's core principles lies in the belief that to have made
-											one person's life a little better is to have succeeded. But they
-											will by no means settle for a little better. Helphen wants the
-											very best and will work together to achieve a society of equals.`}
+											At the heart of Avana lies the belief that inner healing happens through social healing. We operate on the fundamental principle of inclusivity, recognising every individual's inherent dignity and worth regardless of their background or circumstances. We believe in fostering a culture of compassion, empathy, and respect, guided by a commitment to equity, fairness, and social responsibility.
+											`}
 								</p>
 							</div>
 						</div>
 						<div className="col-md-4">
 							<div className="feature-text">
-								<h3>Plan of Action</h3>
+								<h3>Main events</h3>
 								<p>
-									Armed with inextinguishable enthusiasm and a spirit that refuses
-									to quit, Helphen organizes events and workshops to raise
-									awareness and encourage all to carry the torch of change.
+								Through these concerted efforts, Avana endeavours to catalyse positive change and make a tangible difference in the lives of those we serve, 
+								striving towards a more compassionate, equitable, and inclusive society for all.
+
+
 								</p>
 							</div>
 						</div>
@@ -112,7 +114,7 @@ export default function Home() {
 								>
 									<Link href="images/Gallery1.jpg" className="color-3">
 										<div className="case-studies-summary">
-											<h2>Marudhavalli Medu</h2>
+											<h2>collection</h2>
 										</div>
 									</Link>
 								</li>
@@ -124,7 +126,7 @@ export default function Home() {
 								>
 									<Link href="images/Gallery2.jpg" className="color-4">
 										<div className="case-studies-summary">
-											<h2>Sacred Hearts</h2>
+											<h2>collection</h2>
 										</div>
 									</Link>
 								</li>
@@ -136,7 +138,7 @@ export default function Home() {
 								>
 									<Link href="images/Gallery3.jpg" className="color-5">
 										<div className="case-studies-summary">
-											<h2>{`St Jude's Center`}</h2>
+											<h2>{`collection`}</h2>
 										</div>
 									</Link>
 								</li>
@@ -147,7 +149,7 @@ export default function Home() {
 								>
 									<Link href="images/cover_4.png" className="color-6">
 										<div className="case-studies-summary">
-											<h2>Karunalaya Children Home</h2>
+											<h2>collection</h2>
 										</div>
 									</Link>
 								</li>
