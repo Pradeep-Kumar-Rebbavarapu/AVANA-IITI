@@ -18,7 +18,7 @@ export default function Blog() {
                         <h1 class="!text-6xl font-medium title-font mb-4 text-gray-900">OUR TEAM</h1>
                         
                     </div>
-                    <div className="grid md:grid-cols-2 gap-20 mx-20 ">
+                    <div className="grid md:grid-cols-2 gap-20 lg:mx-32 mx-20 ">
                     {HeadData?.map((ele,index)=>{
                         return (
                             <React.Fragment key={index} >
@@ -27,7 +27,7 @@ export default function Blog() {
                         )
                     })}
                     </div>
-                    <div class="grid lg:grid-cols-4 md:grid-cols-2  gap-10 mx-20 lg:mx-10 ">
+                    <div class="grid lg:grid-cols-5 md:grid-cols-2  gap-10 mx-20 lg:mx-10 ">
                     
                     {AllTeamData?.map((ele,index)=>{
                         return (
