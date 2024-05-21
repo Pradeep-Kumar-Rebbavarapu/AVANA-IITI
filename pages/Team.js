@@ -3,6 +3,8 @@ import { NextSeo } from "next-seo";
 import Link from "next/link";
 import { AllTeamData } from "@/data/TeamPageData/AllTeamData";
 import EachTeam from "@/components/TeamPage/EachTeam";
+import { HeadData } from "@/data/TeamPageData/HeadData";
+import HeadCard from "@/components/TeamPage/HeadCard";
 export default function Blog() {
     return (
         <div>
@@ -16,8 +18,17 @@ export default function Blog() {
                         <h1 class="!text-6xl font-medium title-font mb-4 text-gray-900">OUR TEAM</h1>
                         
                     </div>
-                    <div class="flex flex-wrap -m-4">
-
+                    <div className="grid md:grid-cols-2 gap-20 mx-20 ">
+                    {HeadData?.map((ele,index)=>{
+                        return (
+                            <React.Fragment key={index} >
+                                <HeadCard ele={ele} />
+                            </React.Fragment>
+                        )
+                    })}
+                    </div>
+                    <div class="grid lg:grid-cols-4 md:grid-cols-2  gap-10 mx-20 lg:mx-10 ">
+                    
                     {AllTeamData?.map((ele,index)=>{
                         return (
                             <React.Fragment key={index} >

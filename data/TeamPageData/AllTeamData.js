@@ -26,12 +26,12 @@ export const AllTeamData = [
       position: "SOCIAL MEDIA HEAD",
     },
     {
-      image: "images/blog1.png",
+      image: "images/Member 6.jpeg",
       name: "Manik",
       position: "Member",
     },
     {
-      image: "images/blog1.png",
+      image: "images/Picsart_24-02-04_00-27-00-334 - Aishwarya Agrawal.jpg",
       name: "Aishwarya Agrawal",
       position: "Member",
     },
