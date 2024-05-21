@@ -3,42 +3,27 @@ import Link from "next/link";
 export default function EachBlog({ ele }) {
     const {
         image,
-        learn_more_link,
+        
         title,
-        title_link,
-        created_on_date,
+       
         description,
     } = ele;
 
     return (
         <div>
-            <div className="col-lg-4 col-md-4 col-sm-6">
+            <div className=" col-md-2 mx-7">
                 <div className="fh5co-blog animate-box">
                     <Link href={image}>
                         <img className="img-responsive" src={image} alt="" />
                     </Link>
-                    <div className="blog-text">
-                        <div className="prod-title">
-                            <h3>
-                                <Link
-                                    href={title_link}
-                                    target="_blank"
-                                    rel="noopener noreferrer"
-                                >
-                                    {title}
-                                </Link>
-                            </h3>
-                            <span className="posted_by">{created_on_date}</span>
-                            <p>{description}</p>
+                    <div className="card-body h-fit">
+                        <div className="text-center">
                             <p>
-                                <Link
-                                    href={learn_more_link}
-                                    target="_blank"
-                                    rel="noopener noreferrer"
-                                >
-                                    Learn More...
-                                </Link>
-                            </p>
+                        
+                                   <b><span style={{ color: 'black' }}>{title}</span> </b>
+                                <br></br>
+                            {description}</p>
+                             
                         </div>
                     </div>
                 </div>
