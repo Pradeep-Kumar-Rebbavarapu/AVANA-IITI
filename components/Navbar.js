@@ -156,7 +156,7 @@ export default function Navbar() {
                                     <Link href="/Gallery">Gallery</Link>
                                 </li>
                                 <li>
-                                    <Link href="/Blog">Blog</Link>
+                                    <Link href="/Team">Team</Link>
                                 </li>
                                 {/* <li><Link href="/Sponsors">Sponsors</Link></li> */}
                                 <li>
