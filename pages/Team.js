@@ -20,9 +20,9 @@ export default function Blog() {
 
                     {AllTeamData?.map((ele,index)=>{
                         return (
-                            
+                            <div key={index}>
                                 <EachTeam ele={ele} />
-                            
+                            </div>
                         )
                     })}
 
