@@ -1,6 +1,6 @@
 export const HeadData = [
     {
-        image: "images/blog1.png",
+        image: "images/5.png",
         name: "Member 1",
         position: "OPNL HEAD",
     },
