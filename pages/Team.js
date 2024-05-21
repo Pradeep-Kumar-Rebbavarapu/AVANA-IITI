@@ -20,9 +20,9 @@ export default function Blog() {
 
                     {AllTeamData?.map((ele,index)=>{
                         return (
-                            <div key={index}>
+                            <React.Fragment key={index} >
                                 <EachTeam ele={ele} />
-                            </div>
+                            </React.Fragment>
                         )
                     })}
 
