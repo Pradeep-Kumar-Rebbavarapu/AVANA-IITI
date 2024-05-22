@@ -14,7 +14,7 @@ export default function EachEvent({ ele }) {
                         <img
                             src={`/${images[0]}`}
                             alt="Free HTML5 Bootstrap Template"
-                            className="img-responsive"
+                            className="img-responsive !object-cover "
                         />
                     </p>
                 </div>
@@ -24,7 +24,7 @@ export default function EachEvent({ ele }) {
                         <img
                             src={`/${images[1]}`}
                             alt="Free HTML5 Bootstrap Template"
-                            className="img-responsive"
+                            className="img-responsive !object-cover"
                         />
                     </p>
                 </div>
@@ -35,7 +35,7 @@ export default function EachEvent({ ele }) {
                         <img
                             src={`/${images[2]}`}
                             alt="Free HTML5 Bootstrap Template"
-                            className="img-responsive"
+                            className="img-responsive !object-cover"
                         />
                     </p>
                 </div>
@@ -45,7 +45,7 @@ export default function EachEvent({ ele }) {
                         <img
                             src={`/${images[3]}`}
                             alt="Free HTML5 Bootstrap Template"
-                            className="img-responsive"
+                            className="img-responsive !object-cover"
                         />
                     </p>
                 </div>
