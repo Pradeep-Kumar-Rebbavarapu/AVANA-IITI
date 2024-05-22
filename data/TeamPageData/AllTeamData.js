@@ -2,11 +2,11 @@
 export const AllTeamData = [
     {
       image: "images/Snapchat-1221937346 - Nandini Goyal.jpg",
-      name: "Member 1",
+      name: "Nandini Goyal",
       position: "OPNL HEAD",
     },
     {
-      image: "images/WhatsApp Image 2024-05-22 at 08.06.25_e0b1b2a6.jpg",
+      image: "images/vashista boddula.jpg",
       name: "Member 2",
       position: "CONTENT HEAD",
     },
@@ -21,7 +21,7 @@ export const AllTeamData = [
       position: "MARGADARSHAN HEAD",
     },
     {
-      image: "images/20240413_174520_abneesh.jpg",
+      image: "images/abneesh.jpg",
       name: "Member 5",
       position: "SOCIAL MEDIA HEAD",
     },
@@ -37,164 +37,150 @@ export const AllTeamData = [
     },
     {
       image: "images/IMG_20230616_202051 - Mess Secratary APJ.jpg",
-      name: "Member 7",
+      name: "Suhith ",
       position: "Member",
     },
     {
       image: "images/IMG20220625014405 - Riya Meena.jpg",
-      name: "Member 7",
+      name: "Riya Meena",
       position: "Member",
     },
     {
       image: "images/IMG20240203230039 - Harshit Kumar.jpg",
-      name: "Member 7",
+      name: "Harshit Kumar",
       position: "Member",
     },
     {
       image: "images/IMG-20240204-WA0005 - Chelsiya Goyal.jpg",
-      name: "Member 7",
+      name: "Chelsiya Goyal",
       position: "Member",
     },
     {
       image: "images/IMG_20240204_223304 - Gaurav Rajput.jpg",
-      name: "Member 6",
+      name: "Gaurav Rajput",
       position: "Member",
     },
     {
       image: "images/IMG_20240204_223343 - Sadhna Singh.jpg",
-      name: "Member 7",
+      name: "Sadhna Singh",
       position: "Member",
     },
     {
       image: "images/IMG20231014144157-01 - Jeetesh Patel.jpeg",
-      name: "Member 7",
+      name: " Jeetesh Patel",
       position: "Member",
     },
     {
       image: "images/IMG_20240204_234521 - Ghoti Sakshi.jpg",
-      name: "Member 7",
+      name: "Ghoti Sakshi",
       position: "Member",
     },
     {
       image: "images/IMG_20240204_225555 - Apram Bhati.jpg",
-      name: "Member 7",
+      name: "Apram Bhati",
       position: "Member",
     },
     {
       image: "images/IMG_20240205_003409 - Moksha Pathak.jpg",
-      name: "Member 7",
+      name: "Moksha Pathak",
       position: "Member",
     },
     {
       image: "images/IMG-20230827-WA0001 - Apekshit.jpg",
-      name: "Member 3",
+      name: "Apekshit",
       position: "Member",
     },
     {
       image: "images/photo - Varikuti Reethika Prasanna.jpg",
-      name: "Member 4",
+      name: "Varikuti Reethika Prasanna",
       position: "Member",
     },
     {
       image: "images/Sourabh Goswami - Sourabh Goswami.jpg",
-      name: "Member 5",
+      name: " Sourabh Goswami",
       position: "Member",
     },
     {
       image: "images/Screenshot_2023_0925_165200 - Nivedita Iiti.jpg",
-      name: "Member 6",
+      name: "Nivedita",
       position: "Member",
     },
     {
       image: "images/IMG-20240205-WA0000 - Ravi Kumar.jpg",
-      name: "Member 7",
+      name: "Ravi Kumar",
       position: "Member",
     },
     {
       image: "images/IMG_20240205_103625 - Muskan.jpg",
-      name: "Member 7",
+      name: "Muskan",
       position: "Member",
     },
     {
       image: "images/my photo - Ashwin Bansod.jpg",
-      name: "Member 7",
+      name: "Ashwin Bansod",
       position: "Member",
     },
     {
       image: "images/Web_Photo_Editor - Kanak Nagar.jpg",
-      name: "Member 7",
+      name: "Kanak Nagar",
       position: "Member",
     },
     {
       image: "images/IMG-20240117-WA0027 - Snehungsu Sahana.jpg",
-      name: "Member 7",
+      name: "Snehungsu Sahana",
       position: "Member",
     },
     {
       image: "images/Screenshot_2024-02-05-01-45-26-08_92460851df6f172a4592fca41cc2d2e6 - Rasika Kalokhe.jpg",
-      name: "Member 6",
+      name: "Rasika Kalokhe",
       position: "Member",
     },
     {
       image: "images/IMG_20240204_223214 - Yash Kumar.jpg",
-      name: "Member 7",
+      name: "Yash Kumar",
       position: "Member",
     },
     {
       image: "images/1702735036512 - Shalini Bharti.jpg",
-      name: "Member 7",
+      name: "Shalini Bharti",
       position: "Member",
     },
     {
       image: "images/IMG_20240205_023338~2 - Aman Singh.jpg",
-      name: "Member 7",
+      name: "Aman Singh",
       position: "Member",
     },
     {
       image: "images/my-passport-photo - Arvapalli Vagdevi.jpg",
-      name: "Member 7",
+      name: "Arvapalli Vagdevi",
       position: "Member",
     },
     {
       image: "images/IIM-1 - Utkarsh Singh.jpg",
-      name: "Member 7",
+      name: "Utkarsh Singh",
       position: "Member",
     },
     {
       image: "images/IMG-20240106-WA0055 - Dharmendra Kumar.jpg",
-      name: "Member 3",
+      name: "Dharmendra Kumar",
       position: "Member",
     },
     {
       image: "images/IMG20231129235632 - Avdhoot Ramchandra.jpg",
-      name: "Member 4",
+      name: "Avdhoot Ramchandra",
       position: "Member",
     },
     {
       image: "images/ARPIT.jpg",
-      name: "Member 5",
+      name: "ARPIT",
       position: "Member",
     },
     {
       image: "images/IMG-20231213-WA0032 - Batchu Kesava.jpg",
-      name: "Member 6",
+      name: "Batchu Kesava",
       position: "Member",
     },
-    {
-      image: "images/blog1.png",
-      name: "Member 7",
-      position: "Member",
-    },
-    {
-      image: "images/blog1.png",
-      name: "Member 7",
-      position: "Member",
-    },
-    {
-      image: "images/blog1.png",
-      name: "Member 7",
-      position: "Member",
-    },
+    
    
 
 

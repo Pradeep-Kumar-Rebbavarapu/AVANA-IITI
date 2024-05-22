@@ -194,7 +194,7 @@ export default function Home() {
                     </div>
                 </div>
             </div>
-
+{/* 
             <div id="fh5co-services-section" className="fh5co-section-gray">
                 <div className="container">
                     <div className="row">
@@ -212,9 +212,9 @@ export default function Home() {
                         );
                     })}
                 </div>
-            </div>
+            </div> */}
 
-            <div id="fh5co-blog-section">
+            {/* <div id="fh5co-blog-section">
                 <div className="container">
                     <div className="row">
                         <div className="col-md-8 col-md-offset-2 text-center heading-section animate-box">
@@ -245,7 +245,7 @@ export default function Home() {
                         </div>
                     </div>
                 </div>
-            </div>
+            </div> */}
         </div>
     );
 }
