@@ -101,16 +101,22 @@ export default function Navbar() {
                         <div className="js-fh5co-nav-toggle fh5co-nav-toggle dark">
                             <i></i>
                         </div>
-                        <h1 id="fh5co-logo" className="flex items-center mb-5 ">
-                            <Link href="/">
-                                <img
-                                    className="w-24 h-24 my-auto flex justify-center items-center mt-1"
-                                    src="images/helphen%20India%20logo.png"
-                                    alt="logo"
-                                />
-                            </Link>
-                        </h1>
+                        <div>
+                            <div id="fh5co-logo" className="flex items-center mb-5 ">
+                                <Link href="/" className="flex">
+                                    <div className="">
+                                        <img
+                                            className="w-38 h-24 my-auto flex justify-center items-center mt-1 "
+                                            src="images/main_logo.png"
+                                            alt="logo"
+                                        />
+                                    </div>
 
+                                </Link>
+
+                            </div>
+
+                        </div>
                         <nav id="fh5co-menu-wrap" role="navigation">
                             <ul className="sf-menu" id="fh5co-primary-menu">
                                 <li className="active">

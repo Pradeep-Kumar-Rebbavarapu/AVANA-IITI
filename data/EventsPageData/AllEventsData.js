@@ -1,4 +1,26 @@
 const AllEventsData = [
+   
+    {
+        id: 2,
+        title: "Events 24-25",
+        results: [
+            {
+                title: "Cloth Donation Drive",
+                description:
+                    "We organized a campus-wide book donation drive in June. The goal was to collect books from students and faculty to support libraries in underprivileged areas. Collection points were set up across the campus, and volunteers facilitated the collection process.",
+                images: [
+                    "images/Gallery1.jpg",
+                    "images/Gallery2.jpg",
+                    "images/Gallery3.jpg",
+                    "images/Gallery4.jpg",
+                ],
+            },
+           
+           
+           
+            
+        ],
+    },
     {
         id: 1,
         title: "Events 23-24",
@@ -73,78 +95,7 @@ const AllEventsData = [
     },
     
 
-    {
-        id: 2,
-        title: "Events 24-25",
-        results: [
-            {
-                title: "Book Donation Drive",
-                description:
-                    "We organized a campus-wide book donation drive in June. The goal was to collect books from students and faculty to support libraries in underprivileged areas. Collection points were set up across the campus, and volunteers facilitated the collection process.",
-                images: [
-                    "images/bdd 24_1.jpg",
-                    "images/bdd 24_2.jpg",
-                    "images/bdd 24_3.jpg",
-                    "images/bdd 24_4.jpg",
-                ],
-            },
-            {
-                title: "Community Health Check-up",
-                description:
-                    "In collaboration with local health authorities, we arranged a free health check-up camp in a nearby village. Medical professionals provided consultations, basic treatments, and health education to the villagers.",
-                images: [
-                    "images/health 24_1.jpg",
-                    "images/health 24_2.jpg",
-                    "images/health 24_3.jpg",
-                    "images/health 24_4.jpg",
-                ],
-            },
-            {
-                title: "Tech Workshop",
-                description:
-                    "A technology workshop was conducted to educate local students about the basics of coding and robotics. The workshop included hands-on sessions and interactive learning activities, aiming to inspire the next generation of technologists.",
-                images: [
-                    "images/tech 24_1.jpg",
-                    "images/tech 24_2.jpg",
-                    "images/tech 24_3.jpg",
-                    "images/tech 24_4.jpg",
-                ],
-            },
-            {
-                title: "Environmental Awareness Campaign",
-                description:
-                    "We launched an environmental awareness campaign that included activities such as tree planting, recycling drives, and educational seminars on sustainability. The campaign aimed to promote eco-friendly practices within the community.",
-                images: [
-                    "images/env 24_1.jpg",
-                    "images/env 24_2.jpg",
-                    "images/env 24_3.jpg",
-                    "images/env 24_4.jpg",
-                ],
-            },
-            {
-                title: "Art and Culture Fest",
-                description:
-                    "An art and culture fest was held to celebrate local heritage and talent. The fest featured art exhibitions, cultural performances, and workshops on traditional crafts, fostering a sense of community and cultural appreciation.",
-                images: [
-                    "images/art 24_1.jpg",
-                    "images/art 24_2.jpg",
-                    "images/art 24_3.jpg",
-                    "images/art 24_4.jpg",
-                ],
-            },
-            {
-                title: "Annual Sports Meet",
-                description:
-                    "The annual sports meet was a vibrant event that brought together students and faculty for a series of athletic competitions. The event aimed to promote physical fitness and camaraderie within the campus community.",
-                images: [
-                    "images/sports 24_1.jpg",
-                    "images/sports 24_2.jpg",
-                    "images/sports 24_3.jpg",
-                    "images/sports 24_4.jpg",
-                ],
-            },
-        ],
-    },
+   
 ];
 
 module.exports = { AllEventsData };
