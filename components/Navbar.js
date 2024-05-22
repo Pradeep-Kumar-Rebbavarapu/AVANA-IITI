@@ -10,6 +10,8 @@ import { FaFacebook } from "react-icons/fa";
 import { FaTwitter } from "react-icons/fa";
 import { FaLinkedin } from "react-icons/fa";
 import { AllEventsData } from "@/data/EventsPageData/AllEventsData";
+import Image from "next/image";
+import logo from '../public/images/main_logo.png'
 export default function Navbar() {
     const navbarRef = useRef(null);
     useEffect(() => {
@@ -102,12 +104,13 @@ export default function Navbar() {
                             <i></i>
                         </div>
                         <div>
-                            <div id="fh5co-logo" className="flex items-center mb-5 ">
-                                <Link href="/" className="flex">
-                                    <div className="">
-                                        <img
-                                            className="w-38 h-24 my-auto flex justify-center items-center mt-1 "
-                                            src="images/main_logo.png"
+                            <div id="fh5co-logo" className="mb-5 !w-[150px] !h-[60px]">
+                                <Link href="/" className=" !w-38 !h-24">
+                                    <div className="!w-38 !h-24 my-auto  mt-1">
+                                        <Image
+                                            width={"200px"}
+                                            className="!w-38 !h-24 "
+                                            src={logo}
                                             alt="logo"
                                         />
                                     </div>

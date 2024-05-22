@@ -20,7 +20,7 @@ export default function EachProject({ ele }) {
                                 <img
                                     src={`/${images[0]}`}
                                     alt="Free HTML5 Bootstrap Template"
-                                    className="!h-[300px] img-responsive img-overlay"
+                                    className="img-responsive !object-cover"
                                 />
                                 <div className="overlay">
                                     <div className="text">
@@ -34,7 +34,7 @@ export default function EachProject({ ele }) {
                                 <img
                                     src={`/${images[1]}`}
                                     alt="Free HTML5 Bootstrap Template"
-                                    className="!h-[300px] img-responsive img-overlay"
+                                    className="img-responsive !object-cover"
                                 />
                                 <div className="overlay">
                                     <div className="text">
@@ -48,7 +48,7 @@ export default function EachProject({ ele }) {
                                 <img
                                     src={`/${images[2]}`}
                                     alt="Free HTML5 Bootstrap Template"
-                                    className="!h-[300px] img-responsive img-overlay"
+                                    className="img-responsive !object-cover"
                                 />
                                 <div className="overlay">
                                     <div className="text">
@@ -62,7 +62,7 @@ export default function EachProject({ ele }) {
                                 <img
                                     src={`/${images[3]}`}
                                     alt="Free HTML5 Bootstrap Template"
-                                    className="!h-[300px] img-responsive img-overlay"
+                                    className="img-responsive !object-cover"
                                 />
                                 <div className="overlay">
                                     <div className="text">

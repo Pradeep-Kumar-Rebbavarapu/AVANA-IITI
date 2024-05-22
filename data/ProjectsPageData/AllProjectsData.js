@@ -3,7 +3,7 @@ const AllProjectsData = [
         id: 1,
         title: "Margdarshan",
         description:
-            "Margdarshan",
+            "description",
         images: [
             "images/marg 23_1.jpg",
             "images/marg 23_2.jpg",
@@ -15,7 +15,7 @@ const AllProjectsData = [
         id: 2,
         title: "Cloth Donation Drive",
         description:
-            "Cloth Donation Drive",
+            "description",
         images: [
             "images/Gallery1.jpg",
             "images/Gallery2.jpg",

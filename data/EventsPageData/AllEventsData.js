@@ -7,7 +7,7 @@ const AllEventsData = [
             {
                 title: "Cloth Donation Drive",
                 description:
-                    "We organized a campus-wide book donation drive in June. The goal was to collect books from students and faculty to support libraries in underprivileged areas. Collection points were set up across the campus, and volunteers facilitated the collection process.",
+                    "description",
                 images: [
                     "images/Gallery1.jpg",
                     "images/Gallery2.jpg",
