@@ -35,11 +35,13 @@ export const AllTeamData = [
       name: "Aishwarya Agrawal",
       position: "Member",
     },
+
     {
-      image: "images/IMG_20230616_202051 - Mess Secratary APJ.jpg",
-      name: "Suhith ",
+      image: "images/ARPIT.jpg",
+      name: "ARPIT",
       position: "Member",
     },
+    
     {
       image: "images/IMG20220625014405 - Riya Meena.jpg",
       name: "Riya Meena",
@@ -161,8 +163,18 @@ export const AllTeamData = [
       position: "Member",
     },
     {
+      image: "images/E4F20BCD-0833-4577-AD4C-9631DA475AE4 - Aarushi Singh.jpeg",
+      name: "Aarushi Singh",
+      position: "Member",
+    },
+    {
       image: "images/IMG-20240106-WA0055 - Dharmendra Kumar.jpg",
       name: "Dharmendra Kumar",
+      position: "Member",
+    },
+    {
+      image: "images/",
+      name: "VENNELA",
       position: "Member",
     },
     {
@@ -171,15 +183,40 @@ export const AllTeamData = [
       position: "Member",
     },
     {
-      image: "images/ARPIT.jpg",
-      name: "ARPIT",
+      image: "images/Ritika rawat.jpg",
+      name: "Ritika Rawat",
       position: "Member",
     },
+
+    {
+      image: "images/IMG_20230616_202051 - Mess Secratary APJ.jpg",
+      name: "Suhith ",
+      position: "Member",
+    },
+    
+
+
     {
       image: "images/IMG-20231213-WA0032 - Batchu Kesava.jpg",
       name: "Batchu Kesava",
       position: "Member",
     },
+    {
+      image: "images/IMG_20230621_221209 - Tiwari Surendra.jpg",
+      name: "Tiwari Surendra",
+      position: "Member",
+    },
+    {
+      image: "images/IMG_20230810_214723516 (2) - Mankad Nehansh.jpg",
+      name: "Mankad Nehansh",
+      position: "Member",
+    },
+    {
+      image: "images/0aa9e643-3c84-44fc-a7bb-cb6fe46078fd - Ishan Shrivastava.jpeg",
+      name: "Ishan Shrivastava",
+      position: "Member",
+    },
+    
     
    
 
