@@ -7,22 +7,22 @@ export const AllTeamData = [
     },
     {
       image: "images/vashista boddula.jpg",
-      name: "Member 2",
+      name: "Vashista",
       position: "CONTENT HEAD",
     },
     {
       image: "images/WhatsApp Image 2024-04-02 at 23.12.37_482a7f5a.jpg",
-      name: "Member 3",
+      name: "Manaswi",
       position: "CREATIVE HEAD",
     },
     {
       image: "images/WhatsApp Image 2024-05-22 at 01.03.22_cfc28b74.jpg",
-      name: "Member 4",
+      name: "MOHIT TIWARI",
       position: "MARGADARSHAN HEAD",
     },
     {
       image: "images/abneesh.jpg",
-      name: "Member 5",
+      name: "Abneesh",
       position: "SOCIAL MEDIA HEAD",
     },
     {
