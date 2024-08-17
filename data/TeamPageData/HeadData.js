@@ -6,8 +6,8 @@ export const HeadData = [
         
     },
     {
-        image: "images/WhatsApp Image 2024-05-22 at 01.03.22_cfc28b74.jpg",
-        name: "MOHIT TIWARI",
+        image: "images/abneesh.jpg",
+        name: "Abneesh kumar",
         position: "CLUB CO-HEAD",
     },
 ]
